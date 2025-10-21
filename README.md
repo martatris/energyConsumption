@@ -64,8 +64,6 @@ SVR (RBF) → MAE: 1710.58, RMSE: 2223.91, R²: 0.2496
 🔹 **Training Neural Network (MLP)...**  
 Neural Network (MLP) → MAE: 1594.37, RMSE: 2053.60, R²: 0.3602  
 
-✅ **All models trained successfully!**
-
 ---
 
 ## 📈 Summary of Results
